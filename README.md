@@ -5,7 +5,7 @@
 to install the dependencies run:
 `pip install pynacl discord asyncio youtube_search youtube-dl python-dotenv`
 
-## Running the bot
+## Running the bott
 
 The bot will prompt you for a token, supply your bot token to it, and it will run. run `$sync` to sync the command tree to all servers this bot is in, and then the slash commands should be visible within dicords ui.
 
